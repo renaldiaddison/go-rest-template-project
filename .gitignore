@@ -1,0 +1,12 @@
+.env
+*.log
+.idea/
+.vscode/
+_vendor/
+bin/
+release/
+dist/
+tmp/
+*.vpp.bak_*
+*.vpp.vbak*
+*.vpp.lck*
